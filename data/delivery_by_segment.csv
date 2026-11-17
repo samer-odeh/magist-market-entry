@@ -1,0 +1,4 @@
+segment,delivered_orders,avg_promised_days,avg_actual_days,pct_on_time,pct_within_14_days
+premium tech,496,27.5,15.5,91.5,61.1
+other tech,14530,24.7,13.0,93.2,68.3
+non-tech,81450,24.3,12.4,93.2,71.8

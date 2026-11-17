@@ -1,0 +1,170 @@
+segment,delivery_days,delivered_orders
+premium tech,1,1
+premium tech,2,1
+premium tech,3,4
+premium tech,4,7
+premium tech,5,15
+premium tech,6,25
+premium tech,7,33
+premium tech,8,46
+premium tech,9,29
+premium tech,10,26
+premium tech,11,38
+premium tech,12,20
+premium tech,13,29
+premium tech,14,29
+premium tech,15,16
+premium tech,16,17
+premium tech,17,19
+premium tech,18,16
+premium tech,19,16
+premium tech,20,7
+premium tech,21,13
+premium tech,22,10
+premium tech,23,9
+premium tech,24,4
+premium tech,25,4
+premium tech,26,2
+premium tech,27,6
+premium tech,28,4
+premium tech,29,3
+premium tech,30,3
+premium tech,31,1
+premium tech,32,1
+premium tech,33,6
+premium tech,34,4
+premium tech,35,4
+premium tech,36,6
+premium tech,37,4
+premium tech,38,2
+premium tech,39,1
+premium tech,44,2
+premium tech,45,1
+premium tech,46,1
+premium tech,47,3
+premium tech,48,1
+premium tech,49,1
+premium tech,50,1
+premium tech,52,1
+premium tech,60,4
+other tech,1,89
+other tech,2,371
+other tech,3,455
+other tech,4,541
+other tech,5,649
+other tech,6,932
+other tech,7,1070
+other tech,8,1034
+other tech,9,929
+other tech,10,901
+other tech,11,829
+other tech,12,772
+other tech,13,703
+other tech,14,655
+other tech,15,564
+other tech,16,480
+other tech,17,420
+other tech,18,352
+other tech,19,303
+other tech,20,336
+other tech,21,271
+other tech,22,226
+other tech,23,185
+other tech,24,180
+other tech,25,144
+other tech,26,116
+other tech,27,116
+other tech,28,94
+other tech,29,93
+other tech,30,71
+other tech,31,68
+other tech,32,54
+other tech,33,42
+other tech,34,54
+other tech,35,44
+other tech,36,46
+other tech,37,28
+other tech,38,22
+other tech,39,34
+other tech,40,19
+other tech,41,24
+other tech,42,32
+other tech,43,23
+other tech,44,11
+other tech,45,16
+other tech,46,19
+other tech,47,9
+other tech,48,13
+other tech,49,5
+other tech,50,6
+other tech,51,9
+other tech,52,4
+other tech,53,5
+other tech,54,7
+other tech,55,3
+other tech,56,4
+other tech,57,4
+other tech,58,4
+other tech,59,4
+other tech,60,36
+non-tech,0,1
+non-tech,1,539
+non-tech,2,2502
+non-tech,3,2989
+non-tech,4,3949
+non-tech,5,4594
+non-tech,6,5550
+non-tech,7,6379
+non-tech,8,6043
+non-tech,9,5298
+non-tech,10,4866
+non-tech,11,4394
+non-tech,12,4145
+non-tech,13,3777
+non-tech,14,3417
+non-tech,15,2750
+non-tech,16,2319
+non-tech,17,2055
+non-tech,18,1912
+non-tech,19,1615
+non-tech,20,1458
+non-tech,21,1231
+non-tech,22,1126
+non-tech,23,921
+non-tech,24,809
+non-tech,25,730
+non-tech,26,601
+non-tech,27,553
+non-tech,28,526
+non-tech,29,436
+non-tech,30,362
+non-tech,31,332
+non-tech,32,310
+non-tech,33,259
+non-tech,34,257
+non-tech,35,240
+non-tech,36,207
+non-tech,37,169
+non-tech,38,145
+non-tech,39,136
+non-tech,40,113
+non-tech,41,151
+non-tech,42,104
+non-tech,43,106
+non-tech,44,106
+non-tech,45,83
+non-tech,46,95
+non-tech,47,69
+non-tech,48,59
+non-tech,49,53
+non-tech,50,62
+non-tech,51,41
+non-tech,52,42
+non-tech,53,31
+non-tech,54,33
+non-tech,55,26
+non-tech,56,35
+non-tech,57,21
+non-tech,58,21
+non-tech,59,20
+non-tech,60,277

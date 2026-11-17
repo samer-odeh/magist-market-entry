@@ -1,0 +1,7 @@
+price_band,premium,items_sold,pct_of_tech_items,revenue
+1. up to 50,not premium,8897,51.51,236500.46
+2. 50-100,not premium,3462,20.05,269144.35
+3. 100-200,not premium,3167,18.34,472162.90
+4. 200-500,not premium,1178,6.82,350040.60
+5. 500-1000,premium,359,2.08,253717.50
+6. over 1000,premium,208,1.20,321010.45

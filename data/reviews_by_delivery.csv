@@ -1,0 +1,7 @@
+segment,delivery,reviews,avg_review_score,pct_1_or_2_stars
+premium tech,on time,452,4.16,12.6
+premium tech,late,42,2.21,64.3
+other tech,on time,13435,4.21,10.7
+other tech,late,980,2.31,60.5
+non-tech,on time,75148,4.30,9.2
+non-tech,late,5438,2.25,63.2
