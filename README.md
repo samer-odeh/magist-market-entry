@@ -6,7 +6,7 @@ Magist is a Brazilian online marketplace. Eniac, a European online retailer of p
 
 The short version: the premium tech market on Magist is small, the customers mostly buy cheap accessories, and the delivery network is too slow for buyers who pay €1,000 for a laptop. But nobody owns the category yet. One focused seller could lead it within a year. That is worth testing, with clear rules for when to scale and when to walk away.
 
-**[Interactive dashboard on Tableau Public](TABLEAU_LINK)**
+**[Interactive dashboard on Tableau Public]([TABLEAU_LINK](https://public.tableau.com/app/profile/samer.odeh/viz/Magistpremiumtechmarketentry/Dashboard1))**
 
 ![Dashboard](dashboard/dashboard.png)
 
