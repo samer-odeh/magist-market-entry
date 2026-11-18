@@ -8,7 +8,7 @@ The short version: the premium tech market on Magist is small, the customers mos
 
 **[Interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/samer.odeh/viz/Magistpremiumtechmarketentry/Dashboard1)**
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
@@ -90,7 +90,7 @@ sql/
 data/                        CSV extracts used by the dashboard
 dashboard/
   dashboard_spec.md          layout and chart design
-  dashboard.png              screenshot
+  Dashboard.png              screenshot
 ```
 
 **Reproduce:** load the Magist dump into MySQL 8 (MariaDB works if you replace the collation `utf8mb4_0900_ai_ci` with `utf8mb4_general_ci`), then run `sql/01_market_entry.sql` top to bottom. It takes a few seconds.
